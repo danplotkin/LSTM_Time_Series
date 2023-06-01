@@ -12,3 +12,6 @@ Time series forecasting plays a crucial role in various domains, including finan
 * LSTM model: The LSTM model is defined using PyTorch's nn.LSTM module, with customizable hyperparameters such as the number of LSTM layers and hidden size.
 * Training and validation: The model is trained using the mean squared error (MSE) loss function and the AdamW optimizer. Early stopping based on validation loss is implemented to prevent overfitting.
 * Evaluation: The trained model is evaluated on a separate validation set to assess its performance.
+
+# Source Code
+Link to Notebook on GitHub: 
