@@ -14,4 +14,6 @@ Time series forecasting plays a crucial role in various domains, including finan
 * Evaluation: The trained model is evaluated on a separate validation set to assess its performance.
 
 # Source Code
-Link to Notebook on GitHub: 
+Link to Notebook on GitHub: https://github.com/danplotkin/LSTM_Time_Series/blob/main/TimeSeriesLSTM.ipynb
+To run in Google Colab, refer to the link below:
+
