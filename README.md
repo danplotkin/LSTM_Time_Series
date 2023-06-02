@@ -13,8 +13,12 @@ Time series forecasting plays a crucial role in various domains, including finan
 * Training and validation: The model is trained using the mean squared error (MSE) loss function and the AdamW optimizer. Early stopping based on validation loss is implemented to prevent overfitting.
 * Evaluation: The trained model is evaluated on a separate validation set to assess its performance.
 
-# Source Code
+# Source Code for Single Step Forecast
 [View in GitHub](https://github.com/danplotkin/LSTM_Time_Series/blob/main/TimeSeriesLSTM.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danplotkin/LSTM_Time_Series/blob/main/TimeSeriesLSTM.ipynb)
+
+# Source Code for Multistep Forecast
+[View in GitHub](https://github.com/danplotkin/LSTM_Time_Series/blob/main/TimeSeriesLSTM_multistep.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danplotkin/LSTM_Time_Series/blob/main/TimeSeriesLSTM_multistep.ipynb)
 
