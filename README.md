@@ -1,4 +1,4 @@
-# Time Series Forecasting with LSTMs
+# Multi-step Time Series Forecasting with LSTMs
 
 This project demonstrates time series forecasting using Long Short-Term Memory (LSTM) neural networks. LSTM is a type of recurrent neural network (RNN) that is specifically designed for processing sequential data, making it an ideal choice for analyzing and predicting time series data.
 
