@@ -17,9 +17,3 @@ Time series forecasting plays a crucial role in various domains, including finan
 [View in GitHub](https://github.com/danplotkin/LSTM_Time_Series/blob/main/TimeSeriesLSTM.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danplotkin/LSTM_Time_Series/blob/main/TimeSeriesLSTM.ipynb)
-
-# Source Code for Multistep Forecast (Predicting Next Week's Price)
-[View in GitHub](https://github.com/danplotkin/LSTM_Time_Series/blob/main/TimeSeriesLSTM_multistep.ipynb)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danplotkin/LSTM_Time_Series/blob/main/TimeSeriesLSTM_multistep.ipynb)
-
