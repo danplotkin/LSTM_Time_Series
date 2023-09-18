@@ -13,4 +13,4 @@ This project demonstrates time series forecasting using Bidrectional Long Short-
 # Source Code
 [View in GitHub](https://github.com/danplotkin/LSTM_Time_Series/blob/main/MultistepLSTM.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danplotkin/LSTM_Time_Series/blob/main/TimeSeriesLSTM_bidirectional.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danplotkin/LSTM_Time_Series/blob/main/MultistepLSTM.ipynb)
