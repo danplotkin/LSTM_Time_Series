@@ -1,6 +1,6 @@
-# Time Series Forecasting with Bidirectional LSTMs
+# Multi-Step Time Series Forecasting with LSTM
 
-This project demonstrates time series forecasting using Bidrectional Long Short-Term Memory (LSTM) neural networks. LSTM is a type of recurrent neural network (RNN) that is specifically designed for processing sequential data, making it an ideal choice for analyzing and predicting time series data. Bidirectional LSTM (BiLSTM) extends the LSTM architecture by introducing an additional layer that processes the input sequence in the reverse order. This bidirectional aspect allows the model to access both past and future information at each time step, enabling it to make more informed predictions. The forward LSTM layer captures the dependencies in the past, while the backward layer captures dependencies in the future. The outputs of both layers are typically concatenated or combined in some way to obtain the final output.
+This project demonstrates time series forecasting using Long Short-Term Memory (LSTM) neural networks. LSTM is a type of recurrent neural network (RNN) that is specifically designed for processing sequential data, making it an ideal choice for analyzing and predicting time series data.
 
 # Key Features
 
