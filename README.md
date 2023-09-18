@@ -6,11 +6,11 @@ This project demonstrates time series forecasting using Bidrectional Long Short-
 
 * Data retrieval: The project utilizes the Yahoo Finance API to download historical stock price data.
 * Data preparation: The "Adj Close" prices are extracted and preprocessed to create input-output pairs using a sliding window technique.
-* Bidirectional LSTM model: The LSTM model is defined using PyTorch's nn.LSTM module, with customizable hyperparameters such as the number of LSTM layers and hidden size.
+* LSTM model: The LSTM model is defined using PyTorch's nn.LSTM module, with customizable hyperparameters such as the number of LSTM layers and hidden size.
 * Training and validation: The model is trained using the mean squared error (MSE) loss function and the AdamW optimizer. Early stopping based on validation loss is implemented to prevent overfitting.
 * Evaluation: The trained model is evaluated on a separate validation set to assess its performance.
 
 # Source Code
-[View in GitHub](https://github.com/danplotkin/LSTM_Time_Series/blob/main/TimeSeriesLSTM_bidirectional.ipynb)
+[View in GitHub](https://github.com/danplotkin/LSTM_Time_Series/blob/main/MultistepLSTM.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danplotkin/LSTM_Time_Series/blob/main/TimeSeriesLSTM_bidirectional.ipynb)
