@@ -11,6 +11,4 @@ This project demonstrates time series forecasting using Long Short-Term Memory (
 * Evaluation: The trained model is evaluated on a separate validation set to assess its performance.
 
 # Source Code
-[View in GitHub](https://github.com/danplotkin/LSTM_Time_Series/blob/main/LSTM.ipynb)
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danplotkin/LSTM_Time_Series/blob/main/LSTM.ipynb)
